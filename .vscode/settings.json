@@ -1,0 +1,18 @@
+{
+	"emmet.includeLanguages": {
+		"javascript": "javascriptreact"
+	},
+	"tailwindCSS.includeLanguages": {
+		"javascript": "javascriptreact",
+		"html": "HTML"
+	},
+	"editor.quickSuggestions": {
+		"strings": true
+	},
+	"editor.defaultFormatter": "esbenp.prettier-vscode",
+	"prettier.semi": false,
+	"prettier.useTabs": true,
+	"prettier.printWidth": 300,
+	"tailwindCSS.emmetCompletions": true,
+	"css.validate": false
+}

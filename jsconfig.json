@@ -1,0 +1,16 @@
+{
+	"compilerOptions": {
+		"noEmit": true,
+		"baseUrl": ".",
+		"paths": {
+			"@/layouts/*": ["src/layouts/*"],
+			"@/components/*": ["src/components/*"],
+			"@/utils/*": ["src/utils/*"],
+			"@/styles/*": ["./styles/*"],
+			"@/config/*": ["src/config/*"],
+			"@/context/*": ["src/context/*"],
+			"@/hooks/*": ["src/hooks/*"],
+			"@/services/*": ["src/services/*"]
+		}
+	}
+}
